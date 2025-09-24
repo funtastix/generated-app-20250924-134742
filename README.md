@@ -1,6 +1,6 @@
 # AuraStream
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)]([cloudflarebutton])
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)]([![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/funtastix/generated-app-20250924-134742))
 
 A retro-themed, Spotify-like music streaming web app for a single album, featuring generative art and timeless quotes.
 
@@ -87,7 +87,7 @@ bun run deploy
 
 Alternatively, you can deploy this project to your own Cloudflare account with a single click.
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)]([cloudflarebutton])
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)]([![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/funtastix/generated-app-20250924-134742))
 
 ## Contributing
 
